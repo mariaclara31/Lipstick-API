@@ -1,3 +1,5 @@
+<a href="https://www.codefactor.io/repository/github/mariaclara31/lipstick-api"><img src="https://www.codefactor.io/repository/github/mariaclara31/lipstick-api/badge" alt="CodeFactor" /></a>
+
 Projeto de uma API Rest com React e Bootstrap para a integração entre os dois frameworks e melhor apresentação da API ao usuário final.
 
 
